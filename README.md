@@ -1,4 +1,4 @@
-# 🤖 AI Email Triage & Automation System
+#  AI Email Triage & Automation System
 
 An AI-powered email classification and automation system built with **n8n**, **Ollama**, **Llama 3.2 3B**, **Gmail**, **Google Sheets**, and **JavaScript**.
 
@@ -13,7 +13,7 @@ The system automatically reads incoming emails, classifies their intent, assigns
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 - [Overview](#-project-overview)
 - [Why This Project](#-why-this-project)
@@ -28,7 +28,7 @@ The system automatically reads incoming emails, classifies their intent, assigns
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Managing a large volume of email manually is slow and repetitive. This project automates the first — and most tedious — step of email management: **triage**.
 
