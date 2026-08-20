@@ -183,7 +183,7 @@ Switch                    →  routes based on category
 ![AI Email triage system](./screenshots/AI%20Email%20triage%20system.png)
 
 **Email classifier logic**
-![AI email classifier](./screenshots/AI%20email%20classifier.png)
+![ai_email_classifier](./screenshots/AI%20email%20classifier.png)
 
 **Job tracker (Google Sheets log)**
 ![AI Job tracker](./screenshots/AI%20Job%20tracker.png)
